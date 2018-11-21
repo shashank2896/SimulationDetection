@@ -20,4 +20,4 @@ root/images/bees/nsdf3.png
 
 root/images/bees/asd932_.png 
 
-where root is the folder containing the code.
+where root is the folder containing the code and bees, ants are the class names.
